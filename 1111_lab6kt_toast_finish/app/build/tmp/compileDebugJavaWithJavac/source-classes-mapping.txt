@@ -1,0 +1,2 @@
+com/example/a1111_lab6_toast/BuildConfig.java
+ com.example.a1111_lab6_toast.BuildConfig
